@@ -21,3 +21,4 @@ venv.bak/
 .devcontainer
 local_play.yml
 antsibull-env
+.DS_Store
